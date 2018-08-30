@@ -15,4 +15,4 @@
 ***
 
 ### External Dependencies
-  - 'None':
+  - None
