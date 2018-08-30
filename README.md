@@ -1,4 +1,4 @@
-# Is website Up or Down?
+# Is a website Up or Down?
 
 **Building a RESTful API to test whether a website is up or down**
 
