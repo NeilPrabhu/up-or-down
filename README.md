@@ -1,6 +1,6 @@
 # Is a website Up or Down?
 
-**Building a RESTful API to test whether a website is up or down**
+**Building a RESTful API from scratch (various services included)**
 
 *Neil Prabhu*
 
