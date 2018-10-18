@@ -10,8 +10,8 @@
 1. Install node.js from https://nodejs.org/en/
 2. Download up-or-down repo
 3. Open Terminal or cmd
-3a. change directories to up-or-down
-3b. run by using 'node index.js'
+4. change directories to up-or-down
+5. run by using 'node index.js'
 ***
 
 ### External Dependencies
